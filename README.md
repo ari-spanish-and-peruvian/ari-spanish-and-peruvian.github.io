@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Vaya vaya vaya pero qué tenemos aquí
 
-You can use the [editor on GitHub](https://github.com/ari-spanish-and-peruvian/ari-spanish-and-peruvian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Una página creada para poder expresar mis sentimientos hacia ti con un toque de ironía para no sentirme insegura.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Warning la página está en construcción porque estoy intentando recopilar cosas pero también estoy estresada por otros quehaceres.
 
-### Markdown
+### Título ya veremos qué va aquí
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+De momento disfruta nuestra primera foto en ASCII.
 
-```markdown
-Syntax highlighted code block
+.ckd;,c;;ldkOOOOO00000d;;,:;,,,,'............;,;cll:::c:;::..  ..   ..........'....
+.,xx:cdoc,cxkkOkkOO000k,,,,,''''..............:oddollc:;,''   ....  ..........''..,
+..lddocodocldxxkkddO00O;';;,,,,,,''''......;ldxxxxxxddo:,''........  ..   .....'..,
+..,codoldoocddddl:xOOO0k;,,,,''........':coxkkkxxxddddool,.  ...  ......      ..'..
+...:llooc:lldxxl',xOO000l,.....,codxcc;lxxxkkkkkxxddddolc........ .''...  .....,,'.
+...'ooodcccccdxoc:xOO000x,...,lxO00Odc:oxlcllododddoddoc,..',,;;,...''.'. .....',',
+....,clooodocldxxxdkOkOOOc. .lddkOOOxlldl;;;:ccc:::cc::lc;'..:oodo:..''........''''
+,,...,:llooll:lxxxxddoxOOc  'cloodddl,lo:,;;llc;,;;,;:lxkxxxl.lddo:...   .......'.'
+'.'..,:cccocccccoololdxxk;  .':cccll:;;,ll:ccc:;,,;,,:loxxxxo.:ol;.....  ..........
+'';...,;:;;;clolll:cocxkx:   .',;::cc:;;cccc::::;;,,::codxxl.',........  ..........
+:,''..,,';;;;ccc:;::;;:ccc.   ..'';:lllccclolc::;;;;;;;:odl... .. .................
+:;,'...;'',,'';,:cc:::;;,c:.    ....,;;;:ccc:,'''','',;;;;.........................
+.......''.,,,,;;cc;;llooddd''..     ...,,:c:........'''.........   ..     .........
+...''..''''.'.';;c:codddddo:''............,'..........                    .........
+,,,.''''''.','.',;cloooddooc'''''....... .............     . .                   ..
+;;,,,,,''.'..,,':,cdoolldxoo,';;:,'...  ..  .......... ................. .       . 
+;;;;;;;...','',:,,;lollodxxdl,;:cc'.............. ... .............................
+:;;;''....'',;,;:;';cooooddxx;:..,''. ...... ..  ..   ............................,
+.',;c:,o...'';:;;';:clllooodx;...:o;........ ..... ..      ...................,cdO0
+NKOxOkxo.....,:,,,;::loooooodl...'l;'.......................  ......,coooc:ldxdx0KK
+dkclKOkl'. ';;;::;',cloooodddx,...,'.....  .................... .:kKXXKOkxddddxO0KK
+kddo0kO0k. .';:::::,:odxxddxxk:...'''...........................xKKKKK0kddoodxOKKXX
+d0OxXXKOol...'.;:::ccodxxxxxkxo...,;.......',.................'lO0KXX0kdooodk0KKXXX
+kdolcc:'.....,;:ccccloddxxxxxdd......'''',,'''';cldxxddooc:'.'.o0000Okxdddxk0KXXXNN
+ldxO0XXkXN'..,:clllclodxxxxxxxd,......':odollo:oxxokkxxkkxxdl,.lOkxdoooodxkO0KXNNNW
+MMMMMMMMMMk. .:cloocclddxxxxxd;.....,okkkklxoc,ldxlxkxddxxxxxdloocc::;;;::oxk0KNNNN
+MMMMWWWWMMX...;cclllclodddxxx,.....,dkOOOOddxlcldddlxkdlxkxxkxdldxddddoodxkxdOKXNNX
+NMMKOcx0KO0c  .:clllllodddddo.... .:xkOOOOOOOx,:lodcoxxcokxddxdoodxkkkkkkOOOO0O0XXX
+lkx:......';.. ,:cclllooddddc.... .cxkkkkOOOOdl:::;:coolcoddoooolodxkkkOkOO0KXKO0XX
+'.'':ddl00k0o...;:cclllloooo,.... .:xkkkkkkddlollddclddoccoolooooooxkkkkkk0KKKKKXXX
+c;d,lc:oKW0,k...;::ccclloodc.......;dxkkkxxldodllox0dOkxddxxdoooooodxxxxdOKKKKXXXXX
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ari-spanish-and-peruvian/ari-spanish-and-peruvian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sí la verdad es que no se ve muy bien aún estoy trabajando en ello.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para contactar con la creadora ya sabes lo que hacer. Estoy abierta a recibir apoyo económico.
