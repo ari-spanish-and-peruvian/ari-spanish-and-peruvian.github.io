@@ -8,9 +8,9 @@ En fin, no tengo mucho más que decirte, a lo mejor te parece cringy/cringey y e
 
 Finalmente solo quería decirte que te quiero bueno sí en fin eso.
 
-Feliz cumpleaños!!!!!!!!!!!!!! :smiley::smiley::smiley::smiley::smiley::smiley::smiley::heart::es::peru:
+Feliz cumpleaños!!!!!!!!!!!!!! :D
 
-:warning: Siento que de momento no sea mucho, espero poder subir más cosas pero ahora estoy un poco estresada con otros quehaceres.
+Siento que de momento no sea mucho, espero poder subir más cosas pero ahora estoy un poco estresada con otros quehaceres.
 
 ### La primera foto que nos hicimos, como nunca antes la habías visto
 En ASCII.
