@@ -1,47 +1,20 @@
-## Vaya vaya vaya pero qué tenemos aquí
+## Hola Ari
 
-Una página creada para poder expresar mis sentimientos hacia ti con un toque de ironía para no sentirme insegura.
+He creado esta página para poder expresar mis sentimientos de una forma que no me haga sentir insegura. Es sobre nuestra amistad :)
 
-Warning la página está en construcción porque estoy intentando recopilar cosas pero también estoy estresada por otros quehaceres.
+Eso es demasiado cursi, tampoco es para tanto. Es muy sencilla, es sólo una página y vas tirando para abajo para ver todo el contenido (de momento no hay contenido). Como ves el tema es de ser hacker porque si voy a hacer algo para qué hacerlo bonito cuando puedo incidir en el hecho de que solo me siento cómoda comunicándome con una pantalla con fondo negro y letras claras.
+En fin, no tengo mucho más que decirte, a lo mejor te parece cringy/cringey y eso es porque lo es. Pero mira. Cada uno con sus cosas no? Lo hago para que ~creas que~ veas que aprecio mucho nuestra amistad.
 
-### Título ya veremos qué va aquí
+Finalmente solo quería decirte que te quiero bueno sí en fin eso.
 
-De momento disfruta nuestra primera foto en ASCII.
+Feliz cumpleaños!!!!!!!!!!!!!! :smiley::smiley::smiley::smiley::smiley::smiley::smiley::heart::es::peru:
 
-.ckd;,c;;ldkOOOOO00000d;;,:;,,,,'............;,;cll:::c:;::..  ..   ..........'....
-.,xx:cdoc,cxkkOkkOO000k,,,,,''''..............:oddollc:;,''   ....  ..........''..,
-..lddocodocldxxkkddO00O;';;,,,,,,''''......;ldxxxxxxddo:,''........  ..   .....'..,
-..,codoldoocddddl:xOOO0k;,,,,''........':coxkkkxxxddddool,.  ...  ......      ..'..
-...:llooc:lldxxl',xOO000l,.....,codxcc;lxxxkkkkkxxddddolc........ .''...  .....,,'.
-...'ooodcccccdxoc:xOO000x,...,lxO00Odc:oxlcllododddoddoc,..',,;;,...''.'. .....',',
-....,clooodocldxxxdkOkOOOc. .lddkOOOxlldl;;;:ccc:::cc::lc;'..:oodo:..''........''''
-,,...,:llooll:lxxxxddoxOOc  'cloodddl,lo:,;;llc;,;;,;:lxkxxxl.lddo:...   .......'.'
-'.'..,:cccocccccoololdxxk;  .':cccll:;;,ll:ccc:;,,;,,:loxxxxo.:ol;.....  ..........
-'';...,;:;;;clolll:cocxkx:   .',;::cc:;;cccc::::;;,,::codxxl.',........  ..........
-:,''..,,';;;;ccc:;::;;:ccc.   ..'';:lllccclolc::;;;;;;;:odl... .. .................
-:;,'...;'',,'';,:cc:::;;,c:.    ....,;;;:ccc:,'''','',;;;;.........................
-.......''.,,,,;;cc;;llooddd''..     ...,,:c:........'''.........   ..     .........
-...''..''''.'.';;c:codddddo:''............,'..........                    .........
-,,,.''''''.','.',;cloooddooc'''''....... .............     . .                   ..
-;;,,,,,''.'..,,':,cdoolldxoo,';;:,'...  ..  .......... ................. .       . 
-;;;;;;;...','',:,,;lollodxxdl,;:cc'.............. ... .............................
-:;;;''....'',;,;:;';cooooddxx;:..,''. ...... ..  ..   ............................,
-.',;c:,o...'';:;;';:clllooodx;...:o;........ ..... ..      ...................,cdO0
-NKOxOkxo.....,:,,,;::loooooodl...'l;'.......................  ......,coooc:ldxdx0KK
-dkclKOkl'. ';;;::;',cloooodddx,...,'.....  .................... .:kKXXKOkxddddxO0KK
-kddo0kO0k. .';:::::,:odxxddxxk:...'''...........................xKKKKK0kddoodxOKKXX
-d0OxXXKOol...'.;:::ccodxxxxxkxo...,;.......',.................'lO0KXX0kdooodk0KKXXX
-kdolcc:'.....,;:ccccloddxxxxxdd......'''',,'''';cldxxddooc:'.'.o0000Okxdddxk0KXXXNN
-ldxO0XXkXN'..,:clllclodxxxxxxxd,......':odollo:oxxokkxxkkxxdl,.lOkxdoooodxkO0KXNNNW
-MMMMMMMMMMk. .:cloocclddxxxxxd;.....,okkkklxoc,ldxlxkxddxxxxxdloocc::;;;::oxk0KNNNN
-MMMMWWWWMMX...;cclllclodddxxx,.....,dkOOOOddxlcldddlxkdlxkxxkxdldxddddoodxkxdOKXNNX
-NMMKOcx0KO0c  .:clllllodddddo.... .:xkOOOOOOOx,:lodcoxxcokxddxdoodxkkkkkkOOOO0O0XXX
-lkx:......';.. ,:cclllooddddc.... .cxkkkkOOOOdl:::;:coolcoddoooolodxkkkOkOO0KXKO0XX
-'.'':ddl00k0o...;:cclllloooo,.... .:xkkkkkkddlollddclddoccoolooooooxkkkkkk0KKKKKXXX
-c;d,lc:oKW0,k...;::ccclloodc.......;dxkkkxxldodllox0dOkxddxxdoooooodxxxxdOKKKKXXXXX
+:warning: Siento que de momento no sea mucho, espero poder subir más cosas pero ahora estoy un poco estresada con otros quehaceres.
+
+### La primera foto que nos hicimos, como nunca antes la habías visto
+En ASCII.
+
+![](img/ascii_img.png)
+![](img/ascii_img_color.png)
 
 Sí la verdad es que no se ve muy bien aún estoy trabajando en ello.
-
-### Support or Contact
-
-Para contactar con la creadora ya sabes lo que hacer. Estoy abierta a recibir apoyo económico.
