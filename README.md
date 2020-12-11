@@ -13,7 +13,7 @@ Feliz cumpleaños!!!!!!!!!!!!!! :D
 Siento que de momento no sea mucho, espero poder subir más cosas pero ahora estoy un poco estresada con otros quehaceres.
 
 ### La primera foto que nos hicimos, como nunca antes la habías visto
-En ASCII. (No sé cómo rotarlas así que si giras la pantalla 90º en sentido horario las verás mejor)
+En ASCII.
 
 ![](img/ascii_img.png)
 ![](img/ascii_img_color.png)
@@ -27,7 +27,7 @@ Sí la verdad es que no se ve muy bien aún estoy trabajando en ello.
 ![](img/peru.jpg)
 ![](img/ew.jpg)
 ![](img/inflacio.jpg)
-![](img/gini.png)
+![](img/gini.jpg)
 ![](img/feminism.jpg)
 ![](img/bi.jpg)
 ![](img/miriam.jpg)
